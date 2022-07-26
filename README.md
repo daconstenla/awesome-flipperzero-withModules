@@ -8,12 +8,13 @@
 
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br>
-  <h2 align="center">... and every repo you need to clone...</h2><br>
+  <h2 align="center">... and every repo you need to clone...<br>  <center><span align="center" width="100%">
   <a href="#">
     <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
     <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is the name of my Flipper">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
+    </span></center></h2>
   </a>
 </h3>
 
